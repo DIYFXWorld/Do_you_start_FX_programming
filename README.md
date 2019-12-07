@@ -6,4 +6,4 @@
 
 プログラミング言語 : C++  
 
-このページの上部にあるWikiタブをクリックしてください。
+<a href=https://github.com/DIYFXWorld/Do_you_start_FX_programming/wiki>このページの上部にあるWikiタブをクリックしてください。</a>
